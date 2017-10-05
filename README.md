@@ -1,4 +1,4 @@
-# Playing with Today's new Roy: Wolfram Language Version 11.2 Companion
+# Playing with Today's new Toy: Wolfram Language Version 11.2 Companion
 
 ## Synopsis
 
