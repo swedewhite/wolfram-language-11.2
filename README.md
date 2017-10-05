@@ -1,4 +1,4 @@
-# Playing with Today's new Toy: Wolfram Language Version 11.2 Companion
+# Playing With Today's New Toy: Wolfram Language Version 11.2 Livestream Companion Notebooks
 
 ## Synopsis
 
